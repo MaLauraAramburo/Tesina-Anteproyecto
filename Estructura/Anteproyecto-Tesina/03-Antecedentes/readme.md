@@ -82,7 +82,7 @@ adaptarse a estos cambios de las personas serán las más eficientes para su
 dinamismo internos, sus viajeros, eventos y el turismos que en ellos se
 desarrolle.
 
-Vale mencionar la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/watch?v=MXMrxqjDHyA) con el lema <<Desarrollando Talento, Creamos Futuro>>, realizada los días 24 y 25 de abril, que contó con un SIDE EVENT denominado "Desafío 2030: Destinos Turísticos Inteligentes" con el objetivo de Transformar en Inteligentes el 100% de los Destinos Turísticos Latinoamericanos.
+Vale mencionar la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/watch?v=MXMrxqjDHyA) con el lema <<Desarrollando Talento, Creamos Futuro>>, realizada los días 24 y 25 de abril, que contó con un SIDE EVENT denominado ["Desafío 2030: Destinos Turísticos Inteligentes"](https://www.ciudadesdelfuturo.com.ar/2019/04/20/smart-city-expo-buenos-aires/) con el objetivo de Transformar en Inteligentes el 100% de los Destinos Turísticos Latinoamericanos.
 
 Se vio en dicho evento que desarrollar estas capacidades en todos los planos
 sería una de las condiciones que le daría mayor resiliencia, Viajeros,
