@@ -1,4 +1,4 @@
-
+![](https://github.com/MaLauraAramburo/Tesina-Anteproyecto/blob/main/Estructura/Anteproyecto-Tesina/img-gral/logo-UNER.png)
 
 # UNIVERSIDAD NACIONAL DE ENTRE RÍOS
 
