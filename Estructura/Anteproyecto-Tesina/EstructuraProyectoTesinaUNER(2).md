@@ -1,4 +1,4 @@
-**![C:\\Users\\Camila\\AppData\\Local\\Microsoft\\Windows\\INetCache\\Content.MSO\\8E5DB054.tmp](media/8d670216cb81f6b0b7bee5ce6ebbeb30.jpeg)**
+
 
 **UNIVERSIDAD NACIONAL DE ENTRE RÍOS**
 
