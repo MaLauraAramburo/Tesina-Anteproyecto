@@ -13,8 +13,8 @@ desarrollo de los Destinos Inteligentes desde el año 2012, España ya contaba
 desde comienzos del siglo XXI con el programa Red.es para la Transformación
 Digital de la sociedad y los factores productivos. En el período que va de 2012
 a la fecha, el país europeo no sólo desarrolló el concepto de DTI (2012-2015),
-sino que lo implementó en su territorio a través del Plan Nacional de
-Territorios Inteligentes (2017-2020), creó una Norma base y, a principios de
+sino que lo implementó en su territorio a través del [Plan Nacional de
+Territorios Inteligentes (2017-2020)], creó una Norma base y, a principios de
 2019, impulsó la iniciativa UNETUR (Comité de Coordinación interinstitucional de
 estándares y distintivos turísticos) que tiene, entre sus objetivos, el de
 exportar la metodología de los Destinos Turísticos Inteligentes y el modelo de
