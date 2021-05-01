@@ -67,7 +67,7 @@ Emprendimiento, a la vez que hace especial mención al impulso de los Destinos
 Turísticos Inteligentes. El eje temático global de la OMT durante el año 2018
 fue la Transformación Digital y el lema del [Día Mundial del Turismo 2018 «El Turismo y la Transformación Digital»](https://www.unwto.org/es/event/celebracion-oficial-dia-mundial-del-turismo-2018-turismo-y-la-transformacion-digital). En tanto, el año 2019 se centra
 en el Empleo y la Educación, de acuerdo con el tema del [Día Mundial del Turismo
-2019: «Turismo y empleo: un futuro mejor para todos»](https://www.unwto.org/es/world-tourism-day-2019-celebrates-tourism-and-jobs-better-future-all).
+2019: «Turismo y Empleo: Un Futuro Mejor para Todos»](https://www.unwto.org/es/world-tourism-day-2019-celebrates-tourism-and-jobs-better-future-all).
 
 En el contexto nacional esta tendencia puede verse reflejada, principalmente, en
 los acontecimientos ocurridos en Argentina con las iniciativas de la Ciudad
