@@ -55,8 +55,8 @@ potencialidad de la tecnología.
 
 En efecto, a fines de junio de 2018 la OMT en asociación con Globalia, grupo
 turístico líder de España y América Latina, realiza el lanzamiento, a nivel
-global, de la 1ª Competición OMT de Startups de Turismo (1st UNWTO Tourism
-Startup Competition) una competencia enfocada en la búsqueda de Startups
+global, de la [1ª Competición OMT de Startups de Turismo (1st UNWTO Tourism
+Startup Competition)](https://www.unwto.org/es/press-release/2018-09-13/gran-exito-global-1-competicion-de-startups-de-la-organizacion-mundial-del-) una competencia enfocada en la búsqueda de Startups
 Disruptivas que, a través del uso de la Tecnología, estén transformando la forma
 en que se viaja, se conocen nuevos lugares y se tienen nuevas experiencias al
 viajar.
