@@ -12,9 +12,9 @@ solucionar un problema decisivio para el Sector VETTI, facilitando la colaboraci
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y que es replicable.
 
-De igual manera, presenta una Justificación Económica puesto que colabora a
-mejorar la situación económica de las Empresas, Emprendedores y Profesionales
-del Sector VETTI con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
+De igual manera, presenta una Justificación Económica puesto que este estudio contribuirá con información técnica-práctica para 
+las Empresas, Emprendedores y Profesionales
+del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto, procurando que el recurso financiero se
 transforme un costo y no en un gasto.
 
