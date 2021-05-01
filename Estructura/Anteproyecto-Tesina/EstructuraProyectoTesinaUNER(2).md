@@ -3,9 +3,9 @@
 
 ## Facultad de Ciencias de la Administración
 
-**Licenciatura en Turismo**
+### icenciatura en Turismo
 
-**PRESENTACIÓN DE ANTEPROYECTO DE TESINA**
+## PRESENTACIÓN DE ANTEPROYECTO DE TESINA
 
 1.  **Nombre del aspirante:**
 
