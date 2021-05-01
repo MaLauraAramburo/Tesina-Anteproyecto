@@ -47,7 +47,7 @@ Pensamiento Crítico, y la Creatividad. En particular, en este Informe se
 proyecta que la Industria de la aviación, viajes y turismo tendrá las mayores
 necesidades de calificación en el período 2018-2022.
 
-Por otra parte, la Organización Mundial del Turismo (OMT) en el período que va
+Por otra parte, la Organización Mundial del Turismo (UNWTO, por sus siglas en inglés) en el período que va
 del 2013 al 2018, no hace eco de las advertencias que plantean la vulnerabilidad
 del Sector VETTI. Recién en 2018, en forma leve, comienza a dejar en un segundo
 plano los valores ya conseguidos por el sector, para comenzar a buscar la
