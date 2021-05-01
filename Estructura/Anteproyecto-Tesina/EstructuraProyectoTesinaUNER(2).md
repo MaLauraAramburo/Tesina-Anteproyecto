@@ -93,9 +93,9 @@ Resumen
 
         3.3.2. Matriz de datos: Unidad de análisis y variables
 
-        3.3.3. Criterios de selección de muestra y/o casos*
+        3.3.3. Criterios de selección de muestra y/o casos
 
-        3.3.4. Instrumentos y Técnicas*
+        3.3.4. Instrumentos y Técnicas
 
         3.3.5. Procesamiento y análisis de los datos
 
