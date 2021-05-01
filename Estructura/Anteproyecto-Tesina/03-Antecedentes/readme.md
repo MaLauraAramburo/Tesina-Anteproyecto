@@ -12,7 +12,7 @@ desarrollo de los Destinos Turísticos Inteligentes (DTI), Ciudades Inteligentes
 desarrollo de los Destinos Inteligentes desde el año 2012, España ya contaba
 desde comienzos del siglo XXI con el programa Red.es para la Transformación
 Digital de la sociedad y los factores productivos. En el período que va de 2012
-a la fecha, el país europeo no sólo desarrolló el concepto de DTI (2012-2015),
+a la fecha, el país europeo no sólo desarrolló el concepto de [DTI (2012-2015)](https://www.segittur.es/wp-content/uploads/2019/11/Libro-Blanco-Destinos-Tursticos-Inteligentes.pdf),
 sino que lo implementó en su territorio a través del [Plan Nacional de
 Territorios Inteligentes (2017-2020)](http://www.prodetur.es/prodetur/AlfrescoFileTransferServlet?action=download&ref=6f24f87e-5505-4be4-96d5-59a9aba0bf92 ), creó una Norma base y, a principios de
 2019, impulsó la [Iniciativa UNETUR (Comité de Coordinación interinstitucional de
