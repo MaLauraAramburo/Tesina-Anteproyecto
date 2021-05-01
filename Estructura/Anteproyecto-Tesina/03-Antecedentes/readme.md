@@ -21,17 +21,14 @@ exportar la metodología de los Destinos Turísticos Inteligentes y el modelo de
 calidad y competitividad del turismo español. 
 
 Al mismo tiempo, es relevante el Estudio de la Universidad de Oxford de los
-investigadores Carl Frey y Michael Osborne (2013), que pronostica que 47% de los
+investigadores [Carl Frey y Michael Osborne (2013)](https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf), que pronostica que 47% de los
 empleos corren el riesgo de desaparecer dentro de 15 o 20 años a causa de la
 automatización por el uso de robots o computadoras con Inteligencia Artificial.
 Del ranking producido por el algoritmo usado para el estudio, resultó que las
 profesiones en turismo (mozos, recepcionistas, guías de turismo, agentes de
 viajes, entre otras) están dentro de las que tienen más del 90% de
 probabilidades de dejar de existir y, los que no se adapten a dichos cambios,
-quedarían realmente excluidos.[^2]
-
-[^2]: Oppenheimer, A. (2018) *¡Sálvese quien pueda! El futuro del trabajo en la
-    era de la automatización*. 3ª ed. Ciudad Autónoma de Buenos Aires: Debate.
+quedarían realmente excluidos.
 
 Por otro lado, en 2015 hay un hito que pasa casi desapercibido en el ámbito
 global. En ese año, Bill Gates pronostica como muy probable que una pandemia
