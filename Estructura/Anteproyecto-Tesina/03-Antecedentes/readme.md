@@ -15,8 +15,8 @@ Digital de la sociedad y los factores productivos. En el período que va de 2012
 a la fecha, el país europeo no sólo desarrolló el concepto de DTI (2012-2015),
 sino que lo implementó en su territorio a través del [Plan Nacional de
 Territorios Inteligentes (2017-2020)](http://www.prodetur.es/prodetur/AlfrescoFileTransferServlet?action=download&ref=6f24f87e-5505-4be4-96d5-59a9aba0bf92 ), creó una Norma base y, a principios de
-2019, impulsó la iniciativa UNETUR (Comité de Coordinación interinstitucional de
-estándares y distintivos turísticos) que tiene, entre sus objetivos, el de
+2019, impulsó la [Iniciativa UNETUR (Comité de Coordinación interinstitucional de
+estándares y distintivos turísticos)](https://www.une.org/salainformaciondocumentos/NP%20UNETUR%20mar-19.pdf) que tiene, entre sus objetivos, el de
 exportar la metodología de los Destinos Turísticos Inteligentes y el modelo de
 calidad y competitividad del turismo español. 
 
