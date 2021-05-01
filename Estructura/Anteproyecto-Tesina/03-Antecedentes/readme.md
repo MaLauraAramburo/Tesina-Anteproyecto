@@ -89,7 +89,7 @@ sería una de las condiciones que le daría mayor resiliencia, Viajeros,
 Transportes, Espacios Públicos de los Territorios Inteligentes y Salud. Fueron
 unos de los temas que se trataron que hubiera sido difícil imaginar que durante
 el 2020 y 2021 se estaría discutiendo como un cuello de botella de las economías
-relacionadas con el Sector VETTI y el \#RESTARTTOURISM propuesto por la OMT.
+relacionadas con el Sector VETTI y el [#RESTARTTOURISM](https://www.youtube.com/watch?v=mDF9JZraBi8) propuesto por la OMT.
 
 Por último, en 2019, UTN Sede Paraná se llevaron a cabo las
 primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/info2/?p=16103). Unos de los temas allí
