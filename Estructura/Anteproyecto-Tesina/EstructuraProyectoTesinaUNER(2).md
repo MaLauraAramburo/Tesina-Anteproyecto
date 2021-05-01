@@ -82,15 +82,15 @@ Resumen
 
 3.  **Capítulo III: Diseño Metodológico**
 
-    1.  *Objetivo General*
+    3.1. * Objetivo General*
 
-    2.  *Objetivos Específicos*
+    3.2. * Objetivos Específicos*
 
-    3.  *Metodología de la Investigación*
+    3.3. * Metodología de la Investigación*
 
-        3.3.1. Tipo y nivel de la investigación*
+        3.3.1. Tipo y nivel de la investigación
 
-        3.3.2. Matriz de datos: Unidad de análisis y variables*
+        3.3.2. Matriz de datos: Unidad de análisis y variables
 
         3.3.3. Criterios de selección de muestra y/o casos*
 
