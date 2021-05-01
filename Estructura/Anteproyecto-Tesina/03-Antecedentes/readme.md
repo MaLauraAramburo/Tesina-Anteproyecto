@@ -40,15 +40,12 @@ este trabajo con el riesgo que implica seguir subestimado las capacidades de los
 Algoritmos y la Inteligencia Artificial.
 
 Por su parte, el Foro Económico Mundial (World Economic Forum, WEF) profundiza
-las investigaciones sobre el tema antes mencionado y, en la última edición del
-Future of Jobs Report 2018, destaca entre las 10 habilidades más importantes que
+las investigaciones sobre el tema antes mencionado y, en la última edición de
+[The Future of Jobs Report 2018](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf), destaca entre las 10 habilidades más importantes que
 la fuerza laboral requerirá para 2020 a la Resolución de Problemas Complejos, el
 Pensamiento Crítico, y la Creatividad. En particular, en este Informe se
 proyecta que la Industria de la aviación, viajes y turismo tendrá las mayores
-necesidades de calificación en el período 2018-2022.[^3]
-
-[^3]: World Economic Forum (2018). The Future of Jobs Report 2018. Recuperado de
-    http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf
+necesidades de calificación en el período 2018-2022.
 
 Por otra parte, la Organización Mundial del Turismo (OMT) en el período que va
 del 2013 al 2018, no hace eco de las advertencias que plantean la vulnerabilidad
