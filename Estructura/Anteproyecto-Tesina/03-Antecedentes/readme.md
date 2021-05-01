@@ -3,7 +3,7 @@
 
 Si bien muchos de los efectos del impacto negativo de la Pandemia COVID-19 eran
 inevitables, al menos desde el año 2007, hubo advertencias de la necesidad de
-transformación digital del sector VETTI. A continuación, se exponen las
+Transformación Digital del Sector VETTI. A continuación, se exponen las
 iniciativas de instituciones referentes a nivel internacional y nacional.
 
 Cabe mencionar el liderazgo alcanzado por España en materia turística y con el
@@ -18,11 +18,7 @@ Territorios Inteligentes (2017-2020), creó una Norma base y, a principios de
 2019, impulsó la iniciativa UNETUR (Comité de Coordinación interinstitucional de
 estándares y distintivos turísticos) que tiene, entre sus objetivos, el de
 exportar la metodología de los Destinos Turísticos Inteligentes y el modelo de
-calidad y competitividad del turismo español. [^1]
-
-[^1]: Ministerio de Energía, Turismo y Agenda Digital (2017). Plan Nacional de
-    Territorios Inteligentes 2017-2020 (PNTI). Recuperado de
-    http://www.prodetur.es/prodetur/AlfrescoFileTransferServlet?action=download&ref=6f24f87e-5505-4be4-96d5-59a9aba0bf92
+calidad y competitividad del turismo español. [Link](http://www.prodetur.es/prodetur/AlfrescoFileTransferServlet?action=download&ref=6f24f87e-5505-4be4-96d5-59a9aba0bf92)
 
 Al mismo tiempo, es relevante el Estudio de la Universidad de Oxford de los
 investigadores Carl Frey y Michael Osborne (2013), que pronostica que 47% de los
