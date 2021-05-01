@@ -39,7 +39,7 @@ En efecto, esta situación deja ver dando pie a algunas de las justificaciones d
 este trabajo con el riesgo que implica seguir subestimado las capacidades de los
 Algoritmos y la Inteligencia Artificial.
 
-Por su parte, el Foro Económico Mundial (World Economic Forum, WEF) profundiza
+Por su parte, el Foro Económico Mundial (WEF por sus siglas en inglés) profundiza
 las investigaciones sobre el tema antes mencionado y, en la última edición de
 [The Future of Jobs Report 2018](http://www3.weforum.org/docs/WEF_Future_of_Jobs_2018.pdf), destaca entre las 10 habilidades más importantes que
 la fuerza laboral requerirá para 2020 a la Resolución de Problemas Complejos, el
