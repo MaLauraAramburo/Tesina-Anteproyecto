@@ -7,8 +7,7 @@
 
 ## PRESENTACIÓN DE ANTEPROYECTO DE TESINA
 
-1.  **Nombre del aspirante:**
-    * María Laura Aramburo 
+1.  **Nombre del aspirante:** María Laura Aramburo 
 
 2.  **Nombre del director/a del proyecto:**
 
