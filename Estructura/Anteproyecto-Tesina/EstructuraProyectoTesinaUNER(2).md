@@ -63,23 +63,17 @@ Resumen
 
 1.  **Capítulo I: Acerca de la Investigación**
 
-    1.  *Consideraciones iniciales*
-
-    2.  *Presentación y formulación del problema*
-
-    3.  *Delimitación de la problemática*
-
-    4.  *Relevancia del problema*
+    1.1.  *Consideraciones iniciales*
+    1.2.  *Presentación y formulación del problema*
+    1.3.  *Delimitación de la problemática*
+    1.4.  *Relevancia del problema*
 
 2.  **Capítulo II: Marco Teórico**
 
-    1.  *Primera Parte:*
-
-    2.  *Segunda Parte:*
-
-    3.  *Tercera Parte:*
-
-    4.  *Cuarta Parte:*
+   2.1.  *Primera Parte:*
+   2.2.  *Segunda Parte:*
+   2.3.  *Tercera Parte:*
+   2.4.  *Cuarta Parte:*
 
 3.  **Capítulo III: Diseño Metodológico**
 
