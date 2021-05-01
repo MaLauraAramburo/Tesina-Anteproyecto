@@ -62,13 +62,13 @@ en que se viaja, se conocen nuevos lugares y se tienen nuevas experiencias al
 viajar.
 
 Además, el programa de trabajo para el periodo 2018-2019 de la OMT establece
-como primera prioridad la innovación, la transformación digital y el
-emprendimiento, a la vez que hace especial mención al impulso de los Destinos
+como primera prioridad la Innovación, la Transformación Digital y el
+Emprendimiento, a la vez que hace especial mención al impulso de los Destinos
 Turísticos Inteligentes. El eje temático global de la OMT durante el año 2018
-fue la Transformación Digital y el lema del Día Mundial del Turismo de ese año
-fue «El Turismo y la Transformación Digital». En tanto, el año 2019 se centrará
-en el empleo y la educación, de acuerdo con el tema del Día Mundial del Turismo
-2019: «Turismo y empleo: un futuro mejor para todos».
+fue la Transformación Digital y el lema del [Día Mundial del Turismo de 2018](https://www.unwto.org/es/event/celebracion-oficial-dia-mundial-del-turismo-2018-turismo-y-la-transformacion-digital)
+fue «El Turismo y la Transformación Digital». En tanto, el año 2019 se centra
+en el Empleo y la Educación, de acuerdo con el tema del [Día Mundial del Turismo
+2019: «Turismo y empleo: un futuro mejor para todos»](https://www.unwto.org/es/world-tourism-day-2019-celebrates-tourism-and-jobs-better-future-all).
 
 En el contexto nacional esta tendencia puede verse reflejada, principalmente, en
 los acontecimientos ocurridos en Argentina con las iniciativas de la Ciudad
