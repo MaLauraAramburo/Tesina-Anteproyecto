@@ -7,25 +7,25 @@
 
 ## PRESENTACIÓN DE ANTEPROYECTO DE TESINA
 
-1.  **Nombre del aspirante:** María Laura Aramburo 
+1. **Nombre del aspirante:** María Laura Aramburo 
 
-2.  **Nombre del director/a del proyecto:**
+2. **Nombre del director/a del proyecto:**
 
-3.  **Nombre del codirector/a del proyecto:**
+3. **Nombre del codirector/a del proyecto:**
 
-4.  **Abstract o Resumen:**
+4. **Abstract o Resumen:**
 
-5.  **Objetivos:**
+5. **Objetivos:**
 
     Objetivo General:
 
     Objetivos Específicos:
 
-6.  **Justificación de la Investigación:**
+6. **Justificación de la Investigación:**
 
-7.  **Marco Teórico del Proyecto:**
+7. **Marco Teórico del Proyecto:**
 
-8.  **Metodología:**
+8. **Metodología:**
 
     a. Diseño metodológico
 
