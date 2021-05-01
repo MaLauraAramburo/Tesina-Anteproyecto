@@ -31,7 +31,7 @@ probabilidades de dejar de existir y, los que no se adapten a dichos cambios,
 quedarían realmente excluidos.
 
 Por otro lado, en este intervalo de tiempo hay un hito que pasa casi desapercibido en el ámbito
-global. [Bill Gates (TED 2015)](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=es) pronostica como muy probable que una pandemia
+global. [Bill Gates (TED2015)](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready?language=es) pronostica como muy probable que una pandemia
 provocaría el próximo colapso global. Advertía que el mundo no estaba preparado
 si eso ocurría, porque no estaba realizando acciones proactivas y, por
 consiguiente, no podía advertir los riesgos que eso conllevaría hacia el futuro.
