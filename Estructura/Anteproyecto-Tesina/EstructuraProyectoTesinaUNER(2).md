@@ -3,11 +3,12 @@
 
 ## Facultad de Ciencias de la Administración
 
-### icenciatura en Turismo
+### Licenciatura en Turismo
 
 ## PRESENTACIÓN DE ANTEPROYECTO DE TESINA
 
 1.  **Nombre del aspirante:**
+2.    * María Laura Aramburo 
 
 2.  **Nombre del director/a del proyecto:**
 
