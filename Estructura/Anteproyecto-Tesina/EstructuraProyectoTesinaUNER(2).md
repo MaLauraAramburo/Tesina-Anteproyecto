@@ -70,28 +70,21 @@ Resumen
 
 2.  **Capítulo II: Marco Teórico**
 
-   2.1.  *Primera Parte:*
-   2.2.  *Segunda Parte:*
-   2.3.  *Tercera Parte:*
-   2.4.  *Cuarta Parte:*
+   1.  *Primera Parte:*
+   1.  *Segunda Parte:*
+   1.  *Tercera Parte:*
+   1.  *Cuarta Parte:*
 
 3.  **Capítulo III: Diseño Metodológico**
 
-    3.1. * Objetivo General*
-
-    3.2. * Objetivos Específicos*
-
-    3.3. * Metodología de la Investigación*
-
-        3.3.1. Tipo y nivel de la investigación
-
-        3.3.2. Matriz de datos: Unidad de análisis y variables
-
-        3.3.3. Criterios de selección de muestra y/o casos
-
-        3.3.4. Instrumentos y Técnicas
-
-        3.3.5. Procesamiento y análisis de los datos
+    1. * Objetivo General*
+    2. * Objetivos Específicos*
+    3. * Metodología de la Investigación*
+        1.Tipo y nivel de la investigación
+        2.Matriz de datos: Unidad de análisis y variables
+        3.Criterios de selección de muestra y/o casos
+        4.Instrumentos y Técnicas
+        5.Procesamiento y análisis de los datos
 
 4.  **Capítulo IV:**
 
