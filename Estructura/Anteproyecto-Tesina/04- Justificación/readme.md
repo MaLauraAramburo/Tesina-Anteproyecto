@@ -7,8 +7,7 @@ Digital del Turismo.
 Este estudio cuenta con Justificación Teórica porque aporta aspectos teóricos
 relacionados con el reto que supone la Toma de decisiones Basadas en Datos.
 
-Asimismo, tiene una Justificación Práctica en la medida que ayudará  a
-solucionar un problema decisivio para el Sector VETTI, facilitando la colaboración de
+Asimismo, tiene una Justificación Práctica en la medida que ayudará  en la Toma de Decisiones del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y que es replicable.
 
