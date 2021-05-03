@@ -4,8 +4,8 @@ Se plantea como Alternativa de Solución al Problema el Desarrollo de una Wiki
 Open Source como base de conocimiento e investigación para la Transformación
 Digital del Turismo.
 
-Este estudio cuenta con Justificación Teórica porque aporta aspectos teóricos
-relacionados con el reto que supone la Toma de decisiones Basadas en Datos.
+Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar nuevo conocimiento
+relacionado con el reto que supone la Toma de decisiones Basadas en Datos.
 
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a resolver el problema en la Toma de Decisiones del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
@@ -32,6 +32,4 @@ Empresas, Emprendedores y Profesionales del Sector VETTI que se encuentran con
 una problemática social y laboral frente al Escenario Restrictivo de la
 Pandemia.
 
-También cuenta con Justificación Metodológica porque está aportando herramientas
-que es importante comenzar a utilizar, como son los Pronósticos y las
-Predicciones para la Toma de Decisiones Basadas en Datos.
+También cuenta con Justificación Metodológica porque el proyuecto propone una nueva estrategia para generar concoimiento válido y confiable como son los Pronósticos y las Predicciones para la Toma de Decisiones Basadas en Datos.
