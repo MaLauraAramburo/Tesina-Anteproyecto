@@ -1,6 +1,6 @@
 # Justificación
 
-Se plantea como Alternativa de Solución al Problema el desarrollo de una Wiki
+Se plantea como Alternativa de Solución al Problema el Desarrollo de una Wiki
 Open Source como base de conocimiento e investigación para la Transformación
 Digital del Turismo.
 
