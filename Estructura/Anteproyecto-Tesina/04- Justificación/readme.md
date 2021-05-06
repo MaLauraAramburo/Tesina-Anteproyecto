@@ -1,15 +1,11 @@
 # Justificación
 
-Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki irigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en la necesidad de dar una respuesta a la necesidad de una Rápida Reactivación y la Detección de Oportunidades del Sector VETTI frente a la Pandemia COVID-19.
+Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki Open Source drigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en la necesidad de dar una respuesta a la necesidad de una Rápida Reactivación y la Detección de Oportunidades del Sector VETTI frente a la Pandemia COVID-19.
 
-En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documenatción de los proyectos. 
+En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documenatción de los proyectos par ala Reslución de Problemas Complejos.
 
-Se plantea como Alternativa de Solución al Problema el Desarrollo de una Wiki
-Open Source como base de conocimiento e investigación para la Transformación
-Digital del Turismo.
-
-Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar nuevo conocimiento
-relacionado con el reto que supone la Toma de decisiones Basadas en Datos.
+Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
+e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Tarnsformación Digital del Turismo.
 
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a resolver el problema en la Toma de Decisiones del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
