@@ -4,7 +4,7 @@ La pandemia del COVID-19 afectó, en un amplio espectro a la economía global. E
 este sentido, la Economía relacionada al Sector de Viajes, Eventos, Turismo y
 Territorios Inteligentes fue una de las primeras afectadas y, sin lugar a dudas,
 la más afectada al no poder desarrollar la actividad con normalidad. En
-consecuencia, los Destinos en donde estas actividades también sufrieron el
+consecuencia, los Destinos en donde estas actividades se desarrolla, también sufrieron el
 impacto. Por esta razón esta Tesis toma como sujeto a las Empresas,
 Emprendedores y Profesionales del Sector VETTI.
 
