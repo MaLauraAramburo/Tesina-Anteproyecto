@@ -5,18 +5,18 @@ Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki Open Sour
 En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Reslución de Problemas Complejos.
 
 Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se prentenden alcanzar son:
-* Realizar un diagnóstico conducente a la Caracterización del Problema 
-
+* Realizar un diagnóstico conducente a la Caracterización del Problema del Sector VETTI.
+* Desarrollar una Wiki colaborativa, dinámica y Open Source como alternativa de solución al Problema.
+* Realizar un proceso de implementación para determinar los Avances y detectar las Oportunidades que el Sector VETTI puede obtener sobre esta área, estableciendo un proceso de Mejora Continua. 
 
 Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
 e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Transformación Digital del Turismo.
 
-Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a resolver el problema en la Toma de Decisiones del Sector VETTI, facilitando la colaboración de
+Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y es replicable.
 
-De igual manera, presenta una Justificación Económica puesto que este estudio contribuirá con información técnica-práctica para 
-las Empresas, Emprendedores y Profesionales
+De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales
 del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto, procurando que el recurso financiero se
 transforme un costo y no en un gasto.
@@ -36,4 +36,4 @@ Empresas, Emprendedores y Profesionales del Sector VETTI que se encuentran con
 una problemática social y laboral frente al Escenario Restrictivo de la
 Pandemia COVID-19.
 
-También cuenta con Justificación Metodológica porque el proyuecto propone una nueva estrategia para generar concoimiento válido y confiable como son los Pronósticos y las Predicciones para la Toma de Decisiones Basadas en Datos.
+También cuenta con Justificación Metodológica porque el proyuecto propone una nueva estrategia para generar conocimiento válido y confiable como son los Pronósticos y las Predicciones para la Toma de Decisiones Basadas en Datos.
