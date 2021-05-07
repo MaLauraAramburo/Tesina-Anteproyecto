@@ -4,6 +4,10 @@ Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki Open Sour
 
 En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Reslución de Problemas Complejos.
 
+Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se prentenden alcanzar son:
+* Realizar un diagnóstico conducente a la Caracterización del Problema 
+
+
 Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
 e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Transformación Digital del Turismo.
 
