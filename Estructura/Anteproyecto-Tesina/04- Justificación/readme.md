@@ -7,7 +7,7 @@ En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde lo
 Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se prentenden alcanzar son:
 * Realizar un diagnóstico conducente a la Caracterización del Problema del Sector VETTI.
 * Desarrollar una Wiki colaborativa, dinámica y Open Source como alternativa de solución al Problema.
-* Realizar un proceso de implementación para determinar los Avances y detectar las Oportunidades que el Sector VETTI puede obtener sobre esta área, estableciendo un proceso de Mejora Continua. 
+* Realizar un proceso de implementación para determinar los Avances y detectar las Oportunidades que el Sector VETTI puede obtener sobre esta área, estableciendo un proceso de Mejora Continua de la Wiki.
 
 Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
 e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Transformación Digital del Turismo.
