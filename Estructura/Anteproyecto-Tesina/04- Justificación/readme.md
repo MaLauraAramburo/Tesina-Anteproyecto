@@ -9,7 +9,7 @@ e Investigación relacionada con el reto que supone la Toma de decisiones Basada
 
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a resolver el problema en la Toma de Decisiones del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
-que permite la Gestión de Proyectos y que es replicable.
+que permite la Gestión de Proyectos y es replicable.
 
 De igual manera, presenta una Justificación Económica puesto que este estudio contribuirá con información técnica-práctica para 
 las Empresas, Emprendedores y Profesionales
