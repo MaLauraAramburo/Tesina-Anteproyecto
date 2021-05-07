@@ -1,6 +1,6 @@
 # Justificación
 
-Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki Open Source drigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en la necesidad de dar una respuesta a la necesidad de una Rápida Reactivación y la Detección de Oportunidades del Sector VETTI frente a la Pandemia COVID-19.
+Teniendo en cuenta el presente trabajo sobre el desarrollo de una Wiki Open Source drigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal de su realización radica en la necesidad de dar una respuesta a la necesidad de una Rápida Reactivación y la Detección de Oportunidades del Sector VETTI frente a la Pandemia COVID-19.
 
 En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Reslución de Problemas Complejos.
 
