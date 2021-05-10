@@ -72,26 +72,20 @@ en el Empleo y la Educación, de acuerdo con el tema del [Día Mundial del Turis
 En el contexto nacional esta tendencia puede verse reflejada, principalmente, en
 los acontecimientos ocurridos en Argentina con las iniciativas de la Ciudad
 Autónoma de Buenos Aires con miras a convertirse en un Destino Inteligente. Vale
-mencionar la [Smart City Expo Buenos Aires 2017](https://www.youtube.com/watch?v=-pIxnwiCZkE) que, en esta 1ª edición, era muy
-discutido en los foros, los estamentos y actividades la importancia de preparar
-a las ciudades a una transformación de las actividades humanas, donde el
-concepto de turista se corría dejando lujar al concepto de viajero, planteándose
-nuevos paradigmas, en donde la transformación digital de las personas era quien
-marcaría el ritmo a las ciudades, y las ciudades o territorios que sepan
-adaptarse a estos cambios de las personas serán las más eficientes para su
-dinamismo internos, sus viajeros, eventos y el turismos que en ellos se
-desarrolle.
+mencionar la [Smart City Expo Buenos Aires 2017](https://www.youtube.com/watch?v=-pIxnwiCZkE). En esta 1ª edición era muy
+discutida la importancia de preparar a las Ciudades para una Transformación Digital de las actividades humanas, donde el
+concepto de Turista daría lugar al concepto de Viajero y se planteaban nuevos paradigmas de desarrollo. Es aquí donde la Transformación Digital de las personas marcaría el ritmo de cambio a las ciudades, y las que lograran adaptarse al cambio, serían más eficientes.
+En este sentido, la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/watch?v=MXMrxqjDHyA) basada en el lema "Desarrollando Talento, Creamos Futuro", contó con un SIDE EVENT denominado ["Desafío 2030: Destinos Turísticos Inteligentes"](https://www.ciudadesdelfuturo.com.ar/2019/04/20/smart-city-expo-buenos-aires/) con el objetivo de Transformar en Inteligentes el 100% de los Destinos Turísticos Latinoamericanos.
 
-Vale mencionar la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/watch?v=MXMrxqjDHyA) con el lema <<Desarrollando Talento, Creamos Futuro>>, realizada los días 24 y 25 de abril, que contó con un SIDE EVENT denominado ["Desafío 2030: Destinos Turísticos Inteligentes"](https://www.ciudadesdelfuturo.com.ar/2019/04/20/smart-city-expo-buenos-aires/) con el objetivo de Transformar en Inteligentes el 100% de los Destinos Turísticos Latinoamericanos.
+Cabe destacar a nivel regional, las
+primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/info2/?p=16103) realizadas en 2019 en la UNT Sede Paraná. Unos de los temas allí
+desarrollados fue el BigData y la preparación para procesar los Datos de las
+ciudades que realicen el proceso de Transformación Digital, remarcando el potencial .
 
 Se vio en dicho evento que desarrollar estas capacidades en todos los planos
 sería una de las condiciones que le daría mayor resiliencia, Viajeros,
-Transportes, Espacios Públicos de los Territorios Inteligentes y Salud. Fueron
-unos de los temas que se trataron que hubiera sido difícil imaginar que durante
+Transportes, Espacios Públicos de los Territorios Inteligentes y Salud. 
+Fueron unos de los temas que se trataron que hubiera sido difícil imaginar que durante
 el 2020 y 2021 se estaría discutiendo como un cuello de botella de las economías
 relacionadas con el Sector VETTI y el [#RESTARTTOURISM](https://www.youtube.com/watch?v=mDF9JZraBi8) propuesto por la OMT.
 
-Por último, en 2019, en la UTN Sede Paraná se llevaron a cabo las
-primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/info2/?p=16103). Unos de los temas allí
-desarrollados fue el BigData y la preparación para procesar los Datos de las
-ciudades que realicen su Transformación Digital.
