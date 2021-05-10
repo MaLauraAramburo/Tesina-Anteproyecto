@@ -82,10 +82,9 @@ primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/inf
 desarrollados fue el BigData y la preparación para procesar los Datos de las
 ciudades que realicen el proceso de Transformación Digital, remarcando el potencial .
 
-En definitiva, en dicho evento se observó que desarrollar estas capacidades en todos los planos
-sería una de las condiciones que le daría mayor resiliencia, Viajeros,
-Transportes, Espacios Públicos de los Territorios Inteligentes y Salud. 
-Fueron unos de los temas que se trataron que hubiera sido difícil imaginar que durante
-el 2020 y 2021 se estaría discutiendo como un cuello de botella de las economías
+En definitiva, en los distintos eventos que fueron ocurriendo en este plazo de tiempo, se remarcó la importancia de desarrollar las capacidades en todos los planos
+sería una de las condiciones que otorgaría una mayor Resiliencia.
+
+urante el 2020 y 2021 se estaría discutiendo como un cuello de botella de las Economías
 relacionadas con el Sector VETTI y el [#RESTARTTOURISM](https://www.youtube.com/watch?v=mDF9JZraBi8) propuesto por la OMT.
 
