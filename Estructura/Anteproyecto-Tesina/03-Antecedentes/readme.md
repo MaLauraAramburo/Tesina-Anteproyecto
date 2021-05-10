@@ -77,7 +77,7 @@ discutida la importancia de preparar a las Ciudades para una Transformación Dig
 concepto de Turista daría lugar al concepto de Viajero y se planteaban nuevos paradigmas de desarrollo. Es aquí donde la Transformación Digital de las personas marcaría el ritmo de cambio a las ciudades, y las que lograran adaptarse al cambio, serían más eficientes.
 En este sentido, la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/watch?v=MXMrxqjDHyA) basada en el lema "Desarrollando Talento, Creamos Futuro", contó con un SIDE EVENT denominado ["Desafío 2030: Destinos Turísticos Inteligentes"](https://www.ciudadesdelfuturo.com.ar/2019/04/20/smart-city-expo-buenos-aires/) con el objetivo de Transformar en Inteligentes el 100% de los Destinos Turísticos Latinoamericanos.
 
-Cabe destacar a nivel regional, las
+En tanto, a nivel regional, tienen lugar las
 primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/info2/?p=16103) realizadas en 2019 en la UNT Sede Paraná. Unos de los temas allí
 desarrollados fue el BigData y la preparación para procesar los Datos de las
 ciudades que realicen el proceso de Transformación Digital, remarcando el potencial .
