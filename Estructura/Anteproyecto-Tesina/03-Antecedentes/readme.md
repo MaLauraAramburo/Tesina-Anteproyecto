@@ -80,7 +80,7 @@ En este sentido, la [Smart City Expo Buenos Aires 2019](https://www.youtube.com/
 En tanto, a nivel regional, tienen lugar las
 primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/info2/?p=16103) realizadas en 2019 en la UNT Sede Paraná. Uno de los temas allí
 desarrollados fue el BigData y la preparación para procesar los Datos de las
-ciudades que realicen el proceso de Transformación Digital, remarcando el potencial .
+ciudades que realicen el proceso de Transformación Digital, remarcando el potencial de las Soluciones Basadas en Datos.
 
 En definitiva, en los distintos eventos que fueron ocurriendo en este plazo de tiempo, se remarcó la importancia de desarrollar las capacidades en todos los planos
 sería una de las condiciones que otorgaría una mayor Resiliencia.
