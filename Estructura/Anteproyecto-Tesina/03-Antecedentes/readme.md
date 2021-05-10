@@ -82,7 +82,7 @@ primeras [Jornadas Regionales de Ciencia de Datos](http://www.frp.utn.edu.ar/inf
 desarrollados fue el BigData y la preparación para procesar los Datos de las
 ciudades que realicen el proceso de Transformación Digital, remarcando el potencial .
 
-Se vio en dicho evento que desarrollar estas capacidades en todos los planos
+En definitiva, se vio en dicho evento que desarrollar estas capacidades en todos los planos
 sería una de las condiciones que le daría mayor resiliencia, Viajeros,
 Transportes, Espacios Públicos de los Territorios Inteligentes y Salud. 
 Fueron unos de los temas que se trataron que hubiera sido difícil imaginar que durante
