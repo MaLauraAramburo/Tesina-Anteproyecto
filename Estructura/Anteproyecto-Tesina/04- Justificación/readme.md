@@ -45,7 +45,7 @@ VERDAD
 POSITIVO - RELEVANTE
 ÚTIL - VALOR
 
-Uno de los temas que hay que justificar son las estadísticas de exposición y supervivencia al COVID-19 dentro del personal de los hospitales. 
+Uno de los temas que hay que justificar son las estadísticas de exposición y supervivencia a la Pandemia de COVID-19 dentro del personal de los hospitales. 
 Cumplir las normas de profilaxis. 
 No tenés que parar la economía, tenés que enseñar a cuidarse.  
 Dato fácil de testear.
