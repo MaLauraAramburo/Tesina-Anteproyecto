@@ -14,7 +14,7 @@ Por otro lado, esta propuesta se hace para brindar una solución aplicada a la n
 Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
 e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Transformación Digital del Turismo.
 
-Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá a con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
+Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y es replicable.
 
