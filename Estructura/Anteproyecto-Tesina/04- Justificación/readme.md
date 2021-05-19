@@ -2,24 +2,20 @@
 
 Teniendo en cuenta el presente trabajo sobre la estrategia de desarrollo de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal de su realización radica en la necesidad que ha evidenciado el Sector VETTI sobre una Rápida Reactivación Económica y la Detección de Oportunidades frente a la Pandemia COVID-19.
 
-En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Este proyecto se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica del Sector VETTI y a la Necesidad de Actualizar la Transformación Digital del Sector. 
+En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Esta Tesina se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
 
-Conviene subrayar que los Datos tienen un rol muy importante en el desarrollo, la implementación, así como la mejora de cualquier Estratgeia. La Toma de Decisiones Basadas en Datos es fundamental para que una Estrategia planteada puede llevarse a cabo de forma satisfactoria.
+Conviene subrayar que los Datos tienen un rol muy importante en el desarrollo, la implementación, así como la mejora de cualquier Estrategia. La Toma de Decisiones Basadas en Datos es fundamental para que una Estrategia planteada puede llevarse a cabo de forma satisfactoria.
 
-Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se prentenden alcanzar son:
+Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se pretenden alcanzar son:
 * Realizar un diagnóstico conducente a la Caracterización del Problema del Sector VETTI.
 * Desarrollar una Wiki colaborativa, dinámica y Open Source como alternativa de solución al Problema.
 * Realizar un proceso de implementación para determinar los Avances y detectar las Oportunidades que el Sector VETTI puede obtener sobre esta área, estableciendo un proceso de Mejora Continua de la Wiki.
-
-Este estudio cuenta con Justificación Teórica porque el propósito del estudio es generar una Base de Conocimiento
-e Investigación relacionada con el reto que supone la Toma de decisiones Basadas en Datos en el proceso de la Transformación Digital del Turismo.
 
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y es replicable.
 
-De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales
-del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
+De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto, procurando que el recurso financiero se
 transforme un costo y no en un gasto.
 
