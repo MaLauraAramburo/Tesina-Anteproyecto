@@ -2,9 +2,7 @@
 
 Teniendo en cuenta el presente trabajo sobre la estrategia de desarrollo de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal de su realización radica en la necesidad que ha evidenciado el Sector VETTI sobre una Rápida Reactivación Económica y la Detección de Oportunidades frente a la Pandemia COVID-19.
 
-En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Esta Tesina se realiza porque se percibió una necesidad real que representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
-
-Conviene subrayar que los Datos tienen un rol muy importante en el desarrollo, la implementación, así como la mejora de cualquier Estrategia. La Toma de Decisiones Basadas en Datos es fundamental para que una Estrategia planteada puede llevarse a cabo de forma satisfactoria.
+En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Esta Tesina se realiza porque representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
 
 Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se pretenden alcanzar son:
 * Realizar un diagnóstico conducente a la Caracterización del Problema del Sector VETTI.
