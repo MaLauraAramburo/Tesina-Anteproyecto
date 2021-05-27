@@ -26,10 +26,3 @@ digitales). En los últimos años, esta opción se ha transformado en fuentes de
 trabajo genuinas, que es frecuente ver en el ámbito de los youtubers o
 instagramers, pero cualquier profesional puede utilizar esta posibilidad como un
 ingreso rentable.
-
-Igualmente, presenta una Justificación Social, en razón que está dirigido a
-Empresas, Emprendedores y Profesionales del Sector VETTI que se encuentran con
-una problemática social y laboral frente al Escenario Restrictivo de la
-Pandemia de COVID-19.
-
-También cuenta con Justificación Metodológica porque el proyuecto propone una nueva estrategia para generar conocimiento válido y confiable como son los Pronósticos y las Predicciones para la Toma de Decisiones Basadas en Datos.
