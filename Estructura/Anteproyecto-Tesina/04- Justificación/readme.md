@@ -4,11 +4,6 @@ Teniendo en cuenta el presente trabajo sobre la estrategia de desarrollo de una 
 
 En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Esta Tesina se realiza porque representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
 
-Por otro lado, esta propuesta se hace para brindar una solución aplicada a la necesidad de una estrategia sobre la documentación de proyectos, planeando un cronograma de tareas para llegar a su implementación, Prueba y Estado de Mejora Continua. Los logros y fines que se pretenden alcanzar son:
-* Realizar un diagnóstico conducente a la Caracterización del Problema del Sector VETTI.
-* Desarrollar una Wiki colaborativa, dinámica y Open Source como alternativa de solución al Problema.
-* Realizar un proceso de implementación para determinar los Avances y detectar las Oportunidades que el Sector VETTI puede obtener sobre esta área, estableciendo un proceso de Mejora Continua de la Wiki.
-
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
 los distintos actores a través de una herramienta ágil, rápida, colaborativa,
 que permite la Gestión de Proyectos y es replicable.
