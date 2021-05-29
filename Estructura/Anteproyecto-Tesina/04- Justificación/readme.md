@@ -8,8 +8,7 @@ Asimismo, tiene una Justificación Práctica en la medida que propone una estrat
 los distintos actores a través de una herramienta ágil, rápida, colaborativa, que permite la Gestión de Proyectos y es replicable.
 
 De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
-Accountability de cada Proyecto, procurando que el recurso financiero se
-transforme un costo y no en un gasto.
+Accountability de cada Proyecto.
 
 Los entornos colaborativos libres y abiertos permiten acceder a la información y
 modificarla, si fuese necesario. Pero, también es libre y abierto que, aquel que
