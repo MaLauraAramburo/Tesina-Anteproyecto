@@ -5,8 +5,7 @@ Teniendo en cuenta el presente trabajo sobre la estrategia de desarrollo de una 
 En este sentido, a raíz de dicha necesidad, este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos, su normativa y su aplicabilidad. Esta Tesina se realiza porque representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
 
 Asimismo, tiene una Justificación Práctica en la medida que propone una estrategia que, de ser aplicada, contribuirá con información técnica-práctica para las Empresas, Emprendedores y Profesionales del Sector VETTI, facilitando la colaboración de
-los distintos actores a través de una herramienta ágil, rápida, colaborativa,
-que permite la Gestión de Proyectos y es replicable.
+los distintos actores a través de una herramienta ágil, rápida, colaborativa, que permite la Gestión de Proyectos y es replicable.
 
 De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto, procurando que el recurso financiero se
