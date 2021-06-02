@@ -1,8 +1,20 @@
 # Justificación
 
-Teniendo en cuenta el presente trabajo sobre la estrategia de desarrollo de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal de su realización radica en la necesidad que ha evidenciado el Sector VETTI sobre una Rápida Reactivación Económica y la Detección de Oportunidades frente a la Pandemia de COVID-19.
+Teniendo en cuenta el presente trabajo sobre el diseño de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en presentar una Alternativa de Solución a la necesidad que ha evidenciado el Sector VETTI de una Rápida Reactivación Económica y la Detección de Oportunidades frente al Impacto Negativo de la Pandemia de COVID-19.
 
-En este sentido este proyecto se justifica desde los procesos que deben ser mejorados en términos de la documentación de los proyectos. Esta Tesina se realiza porque representa una posibilidad de centralizar y compartir la documentación de los proyectos para la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector. 
+## ¿Por qué se hace el proyecto?
+
+En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se decidió abordar la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector VETTI. Los actores de cada una de estas ramas de actividad económica han visto restringido su normal desarollo, ya que No hay Viajes, No hay Eventos, No hay Turismo y los Territorios Inteligentes no están facturando.
+
+## ¿Por qué una Wiki?
+* Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
+* Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos.
+* Es un Marco de Referencia para iniciar cualquier implementación de este tipo, 
+
+
+Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de problemas similares en el futuro, para establecer nuevos Protocolos y Metodologías de Trabajo 
+
+
 
 De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto.
