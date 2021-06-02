@@ -9,10 +9,12 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 ## ¿Por qué una Wiki?
 * Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
 * Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos.
-* Es un Marco de Referencia para iniciar cualquier implementación de este tipo, 
+* Es un Marco de Referencia para iniciar cualquier implementación de este tipo.
+* Genera el Contexto para la formación de una Comunidad de RPC.
+* Basado en Git, un Sistema de Control de Versiones.
 
 
-Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de problemas similares en el futuro, para establecer nuevos Protocolos y Metodologías de Trabajo 
+Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
 
 
 
