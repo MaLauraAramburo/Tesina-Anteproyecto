@@ -8,16 +8,15 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 
 ## ¿Por qué una Wiki?
 * Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
-* Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos.
+* Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos. Es muy potente para equipos de profesionales de trabajo remoto. 
 * Es un Marco de Referencia para iniciar cualquier implementación de este tipo.
 * Genera el Contexto para la formación de una Comunidad de RPC.
 * Utiliza la plataforma GitHub, basado en el Sistema de Control de Versiones Git.
-* Descentralizado. Las soluciones surgen de la comunidad, de forma colaborativa. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
-
+* Descentralizada. Las soluciones surgen de la comunidad. No hay una autoridad central que riga el aporte de soluciones. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
+* Es colaborativa, de creación colectiva para compartir conocimiento entre Profesionales.
+* Permite el almacenamiento de gran cantidad de información. 
 
 Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
-
-
 
 De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
 Accountability de cada Proyecto.
