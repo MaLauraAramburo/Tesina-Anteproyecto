@@ -11,12 +11,12 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
 * Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos. Es muy potente para equipos de profesionales de trabajo remoto. 
 * Marco de Referencia para iniciar cualquier implementación de este tipo.
-* Genera el Contexto para la formación de una Comunidad de RPC.
-* Utiliza la plataforma GitHub, basado en el Sistema de Control de Versiones Git.
+* Generación del Contexto para la formación de una Comunidad de RPC.
+* Utilización de GitHub, que está basado en el Sistema de Control de Versiones Git.
 * Descentralizada. Las soluciones surgen de la comunidad. No hay una autoridad central que riga el aporte de soluciones. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
-* Es colaborativa, de creación colectiva para compartir conocimiento entre Profesionales.
+* Colaborativa, de creación colectiva para compartir conocimiento entre Profesionales.
 * Posee historial de revisiones, así que es posible deshacer cambios y volver a una versión anterior.
-* Permite el almacenamiento digital de gran cantidad de información. 
+* Almacenamiento digital de gran cantidad de información. 
 * Ágil funcionamiento, ya que no se requieren conocimientos técnicos para su manejo. Se trata de escribir y enlazar a otros contenidos, dentro de la misma página o hacia afuera, ya que la Wiki es Hipertextual. 
 
 Además, este proyecto se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividades Económicas, sino cuando las personas no toman los cuidados necesarios que la situación sanitaria amerita.
