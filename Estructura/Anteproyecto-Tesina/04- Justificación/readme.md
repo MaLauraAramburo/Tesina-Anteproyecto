@@ -15,19 +15,10 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Utiliza la plataforma GitHub, basado en el Sistema de Control de Versiones Git.
 * Descentralizada. Las soluciones surgen de la comunidad. No hay una autoridad central que riga el aporte de soluciones. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
 * Es colaborativa, de creación colectiva para compartir conocimiento entre Profesionales.
+* Posee historial de revisiones, así que es posible deshacer cambios y volver a una versión anterior.
 * Permite el almacenamiento digital de gran cantidad de información. 
+* Ágil funcionamiento, ya que no se requieren concocimientos técnicos para su manejo. Se trata de escribir y enlazar a otros contenidos, dentro de la misma página o hacia afuera, ya que la Wiki es Hipertextual. 
 
-Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
+Además, este proyecto se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
 
-De igual manera, presenta una Justificación Económica puesto que este estudio demostrará como mejorar la situación económica de las Empresas, Emprendedores y Profesionales del Sector VETTI que deseen garantizar su Rentabilidad con el Ahorro de Dinero, Tiempo y una adecuada Gestión de los
-Accountability de cada Proyecto.
-
-Los entornos colaborativos libres y abiertos permiten acceder a la información y
-modificarla, si fuese necesario. Pero, también es libre y abierto que, aquel que
-se vea beneficiado con el trabajo realizado, contribuya de forma económica con
-los colaboradores. Por ejemplo, en el navegador Brave, a través de Brave
-Rewards, se pueden recibir tockens monetizables (monedas o “propinas”
-digitales). En los últimos años, esta opción se ha transformado en fuentes de
-trabajo genuinas, que es frecuente ver en el ámbito de los youtubers o
-instagramers, pero cualquier profesional puede utilizar esta posibilidad como un
-ingreso rentable.
+Los entornos colaborativos libres y abiertos permiten acceder a la información y modificarla, si fuese necesario. Pero, también es libre y abierto que, aquel que se vea beneficiado con el trabajo realizado, contribuya de forma económica con los colaboradores. Por ejemplo, en el navegador Brave, a través de Brave Rewards, se pueden recibir tockens monetizables (monedas o “propinas” digitales). En los últimos años, esta opción se ha transformado en fuentes de trabajo genuinas, que es frecuente ver en el ámbito de los youtubers o instagramers, pero cualquier profesional puede utilizar esta posibilidad como un ingreso rentable.
