@@ -1,6 +1,6 @@
 # Justificación
 
-Teniendo en cuenta el presente trabajo sobre el diseño de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en presentar una Alternativa de Solución a la necesidad que ha evidenciado el Sector VETTI de una Rápida Reactivación Económica y la Detección de Oportunidades frente al Impacto Negativo de la Pandemia de COVID-19.
+Teniendo en cuenta el presente trabajo sobre el Desarrollo de una Wiki Open Source dirigida a las Empresas, Emprendedores y Profesionales del Sector VETTI, debe decirse que la motivación principal radica en presentar una Alternativa de Solución a la necesidad que ha evidenciado el Sector VETTI de una Rápida Reactivación Económica y la Detección de Oportunidades frente al Impacto Negativo de la Pandemia de COVID-19.
 
 ## ¿Por qué se hace el proyecto?
 
