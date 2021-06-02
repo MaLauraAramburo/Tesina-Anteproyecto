@@ -8,7 +8,7 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 
 ## ¿Por qué una Wiki?
 
-* Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
+* Factibilidad de realización y tiempo de ejecución para una Tesina acorde al abordaje de un Problema Dinámico y Complejo.
 * Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos. Es muy potente para equipos de profesionales de trabajo remoto. 
 * Marco de Referencia para iniciar cualquier implementación de este tipo.
 * Generación del Contexto para la formación de una Comunidad de RPC.
