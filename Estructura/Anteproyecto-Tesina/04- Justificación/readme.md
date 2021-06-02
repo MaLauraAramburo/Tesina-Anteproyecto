@@ -17,7 +17,7 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Es colaborativa, de creación colectiva para compartir conocimiento entre Profesionales.
 * Posee historial de revisiones, así que es posible deshacer cambios y volver a una versión anterior.
 * Permite el almacenamiento digital de gran cantidad de información. 
-* Ágil funcionamiento, ya que no se requieren concocimientos técnicos para su manejo. Se trata de escribir y enlazar a otros contenidos, dentro de la misma página o hacia afuera, ya que la Wiki es Hipertextual. 
+* Ágil funcionamiento, ya que no se requieren conocimientos técnicos para su manejo. Se trata de escribir y enlazar a otros contenidos, dentro de la misma página o hacia afuera, ya que la Wiki es Hipertextual. 
 
 Además, este proyecto se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
 
