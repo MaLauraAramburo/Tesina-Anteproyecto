@@ -11,7 +11,8 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos.
 * Es un Marco de Referencia para iniciar cualquier implementación de este tipo.
 * Genera el Contexto para la formación de una Comunidad de RPC.
-* Basado en el Sistema de Control de Versiones Git.
+* Utiliza la plataforma GitHub, basado en el Sistema de Control de Versiones Git.
+* Descentralizado. Las soluciones surgen de la comunidad, de forma colaborativa. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
 
 
 Se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividad Económicas, sino cuando las personas no toman los recaudos necesarios que la situación amerita.
