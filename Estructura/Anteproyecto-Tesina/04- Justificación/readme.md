@@ -7,6 +7,7 @@ Teniendo en cuenta el presente trabajo sobre el diseño de una Wiki Open Source 
 En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se decidió abordar la Resolución de Problemas Complejos asociados a la Reactivación Económica y a la Actualización de la Transformación Digital del Sector VETTI. Los actores de cada una de estas ramas de actividad económica han visto restringido su normal desarollo, ya que No hay Viajes, No hay Eventos, No hay Turismo y los Territorios Inteligentes no están facturando.
 
 ## ¿Por qué una Wiki?
+
 * Factibilidad de realización y tiempo de ejecución acorde al abordaje de un Problema Dinámico y Complejo en el desarrollo de este Proyecto.
 * Documentación de Proyectos que, además, es el 1° paso en la Gestión de Proyectos. Es muy potente para equipos de profesionales de trabajo remoto. 
 * Marco de Referencia para iniciar cualquier implementación de este tipo.
