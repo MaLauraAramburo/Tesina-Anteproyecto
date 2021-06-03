@@ -18,4 +18,4 @@ Empresas, Emprendedores y Profesionales.
 
 ## Objetivo General
 
-Rápida Reactivación y Detección de Oportunidades.
+Rápida Reactivación Económica y Detección de Oportunidades.
