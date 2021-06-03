@@ -1,11 +1,12 @@
 # Marco Teórico
 
 ## Wiki
-El término wiki hace referencia a una plataforma web que permite compartir documentos y realizar ediciones de forma colaborativa entre los miembros del equipo de trabajo. Es una herramienta muy útil para la Gestión de Proyectos, ya que cuenta con una interfaz visual de las tareas donde los miembros del equipo pueden interactuar y realizar cambios en el proyecto, quedando todo concentrado en un mismo lugar.
+El término wiki hace referencia a una plataforma web que permite compartir documentos y realizar ediciones de forma colaborativa entre los miembros del equipo de trabajo. Es una herramienta muy útil para la Gestión de Proyectos, ya que cuenta con una interfaz visual de las tareas donde los miembros del equipo pueden interactuar y realizar cambios en el proyecto, quedando todo concentrado en un mismo lugar y con acceso libre.
 
-## Git y GitHub
-Git es un Software de control de versiones creado por Linus Torval. Es Open Source.
+## Git 
+Git es un Software de Control de Versiones creado por Linus Torval. Es Open Source.
 
+## GitHub
 GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración, que permite trabajar en equipo en proyectos, utilizando el sistema de control de versiones Git.
 
 ## Data Science
