@@ -13,7 +13,7 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Marco de Referencia para iniciar cualquier implementación de este tipo.
 * Generación del Contexto para la formación de una Comunidad de RPC.
 * Utilización de GitHub, que está basado en el Sistema de Control de Versiones Git.
-* Descentralizada. Las soluciones surgen de la comunidad. No hay una autoridad central que riga el aporte de soluciones. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
+* Descentralizada. Las soluciones surgen de la comunidad. No hay una autoridad central que rija el aporte de soluciones. Cualquier persona interviniente puede aportar. Una prueba que una Wiki es efectiva, al hacer una búsqueda web, es la Wikipedia.
 * Colaborativa, de creación colectiva para compartir Conocimiento.
 * Posee Historial de Revisiones, así que es posible deshacer cambios y volver a una versión anterior.
 * Almacenamiento digital de gran cantidad de información. 
