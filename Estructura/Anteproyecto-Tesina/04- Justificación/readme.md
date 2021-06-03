@@ -20,3 +20,17 @@ En este sentido, a raíz de dicha necesidad, este Proyecto se realiza porque se 
 * Ágil funcionamiento, ya que no se requieren conocimientos técnicos para su manejo. Se trata de escribir y enlazar a otros contenidos, dentro de la misma página o hacia afuera, ya que la Wiki es Hipertextual. 
 
 Además, este proyecto se realiza con el objetivo que pueda ser de ayuda en el Abordaje de Problemas similares en el futuro, para establecer Nuevos Protocolos y Metodologías de Trabajo para los Viajes, los Eventos, el Turismo y los Territorios Inteligentes, así como para todos los Sectores Económicos para prevenir los Contagios de Patógenos, resaltando que los contagios no se producen por el desarrollo de las Actividades Económicas, sino cuando las personas no toman los cuidados necesarios que la situación sanitaria amerita.
+
+## ¿Por qué se habla de Territorios Inteligentes y no de Territorios?
+
+Porque los Vaijes, los Eventos y el Turismo se desarrollan en estos Territorios.
+
+Con una diferencia, los Territorios que están muy poco evolucionados hacia su Inteligencia Territorial no tienen Capacidad de Control para eventualidades de este tipo (pandemia), y la única solución que se encuentra es inhibir todda actividad territorial al no tener Capacidad de Control.
+
+En consecuencia, los Territorios que no están desarrollados de forma inteligente se ven afectados de forma severa en su economía en un corto plazo y con muy poca capacidad de recuperación autónoma.
+
+Una consecuencia de esto último es que, para salir de esta situación, y tener que atender muchos y grandes territorios con esta condición se hace viable una solución distinta. Lo que demuestra que esa estrategia de solución económica no es la más adecuada.
+
+Por estas razones.la estrategia presentada en este trabajo de investigación es aprovechar esta eventualidad para, a partir de esta situación, desarrollar Territorios Inteligentes y el Capital Humano necesario para lograr una Auto gestión, optimizando los recursos. 
+
+
