@@ -10,7 +10,7 @@ Git es un Software de Control de Versiones creado por Linus Torval. Es Open Sour
 GitHub es una plataforma de alojamiento de código para el control de versiones y la colaboración, que permite trabajar en equipo en proyectos, utilizando el sistema de control de versiones Git.
 
 ## Data Science
-Ciencia de Datos es un campo que involucra diversas disciplinas como estadística, método científico, análisis de datos, minería de datos, que forman parte del proceso de KDD para nutrir el proceso de Toma de Decisiones Basadas en Datos (DDDM, por sus siglas inglés) de cualquier usuario.
+Ciencia de Datos es un campo que involucra diversas disciplinas como estadística, método científico, análisis de datos, minería de datos, que forman parte del proceso de Descubrimiento de Conocimiento en Bases de Datos (KDD, por sus siglas en inglés) para nutrir el proceso de Toma de Decisiones Basadas en Datos (DDDM, por sus siglas inglés) de cualquier usuario.
 
 ## Big Data
 Representa el gran volumen de datos que se generan a nivel global a partir de todos los dispositivos a través de los cuales los usuarios interactúan a través de la tecnología.
