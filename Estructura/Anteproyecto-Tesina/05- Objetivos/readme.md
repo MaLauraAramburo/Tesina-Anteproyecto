@@ -4,7 +4,7 @@
 
 Generar Recursos para la Rápida Reactivación Económica del Sector Viajes,
 Eventos, Turismo y Territorios Inteligentes que fueron afectados en forma
-negativa por causa de la Pandemia COVID-19.
+negativa por causa de la Pandemia de COVID-19.
 
 ## Objetivo Específico
 
