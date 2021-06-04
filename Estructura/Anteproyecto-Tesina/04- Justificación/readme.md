@@ -23,7 +23,7 @@ Además, este proyecto se realiza con el objetivo que pueda ser de ayuda en el A
 
 ## ¿Por qué se habla de Territorios Inteligentes y no de Territorios?
 
-Porque los Vaijes, los Eventos y el Turismo se desarrollan en estos Territorios.
+Porque los Viajes, los Eventos y el Turismo se desarrollan en estos Territorios.
 
 Con una diferencia, los Territorios que están muy poco evolucionados hacia su Inteligencia Territorial no tienen Capacidad de Control para eventualidades de este tipo (pandemia), y la única solución que se encuentra es inhibir todda actividad territorial al no tener Capacidad de Control.
 
