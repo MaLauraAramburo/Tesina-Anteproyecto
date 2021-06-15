@@ -31,6 +31,5 @@ En consecuencia, los Territorios que no están desarrollados de forma inteligent
 
 Una consecuencia de esto último es que, para salir de esta situación, y tener que atender muchos y grandes territorios con esta condición se hace viable una solución distinta. Lo que demuestra que esa estrategia de solución económica no es la más adecuada.
 
-Por estas razones, la estrategia presentada en este trabajo de investigación es aprovechar esta eventualidad para, a partir de esta situación, desarrollar Territorios Inteligentes y el Capital Humano necesario para lograr una Auto gestión, optimizando los recursos. 
-
+Por estas razones, la estrategia presentada en este trabajo de investigación es aprovechar esta eventualidad para, a partir de esta situación, desarrollar Territorios Inteligentes y el Capital Humano necesario para lograr una Auto gestión, Optimizando los Capitales.
 
