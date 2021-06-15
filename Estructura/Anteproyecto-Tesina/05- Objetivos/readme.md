@@ -8,4 +8,4 @@ Generar una Rápida Reactivación Económica a través de Capitales Intangibles 
 
 * Desarrollar una Wiki Open Source como Base de Conocimiento Digital Tokenizable.
 * Mejorar la Gestión del Capital Humano en las equipos de trabajo para la Transformación Digital.
-* Generación de Contenido de Valor.
+* Generar Contenido de Valor.
