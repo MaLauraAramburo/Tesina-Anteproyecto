@@ -85,6 +85,6 @@ ciudades que realicen el proceso de Transformación Digital, remarcando el poten
 En definitiva, en los distintos eventos que fueron ocurriendo en este plazo de tiempo, se remarcó la importancia de desarrollar las capacidades en todos los planos
 sería una de las condiciones que otorgaría una mayor Resiliencia.
 
-Durante el 2020 y 2021 se estaría discutiendo como un cuello de botella de las Economías
+Durante el 2020 y 2021 se estará discutiendo como un cuello de botella de las Economías
 relacionadas con el Sector VETTI y el [#RESTARTTOURISM](https://www.youtube.com/watch?v=mDF9JZraBi8) propuesto por la OMT.
 
